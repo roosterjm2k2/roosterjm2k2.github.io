@@ -1,0 +1,29 @@
+{
+  "skills": {
+    "angularjs": ["Angular JS"],
+    "apache": ["Apache"],
+    "css3": ["CSS"],
+    "django": ["Django"],
+    "git": ["git"],
+    "grunt": ["Grunt"],
+    "gulp": ["Gulp"],
+    "heroku": ["Heroku"],
+    "html5": ["HTML"],
+    "java": ["Java"],
+    "javascript": ["Javascript"],
+    "jquery": ["jQuery"],
+    "laravel": ["Laravel"],
+    "less": ["Less"],
+    "linux": ["Linux"],
+    "mysql": ["MySQL"],
+    "nodejs": ["Node.js"],
+    "php": ["PHP"],
+    "python": ["Python"],
+    "react": ["React"],
+    "sass": ["SASS"],
+    "ssh": ["SSH"],
+    "vim": ["VIM"],
+    "wordpress": ["Wordpress"],
+    "zend": ["Zend Framework"]
+  }
+}
